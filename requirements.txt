@@ -1,0 +1,4 @@
+requests==2.25.1
+mega.py==1.0.8
+beautifultable==1.0.1
+mega==0.2.11
