@@ -2,7 +2,6 @@
  Simple tool to check the validity of an account.<br/>
 
 # Features
- - Useragent rotation.<br/>
  - Proxyless mode.<br/>
  - Configurable in the configs.json.<br/>
  - Customizable thread amount.<br/>
